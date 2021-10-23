@@ -1,16 +1,21 @@
-### Hi there 👋
+## Hi there 👋, my name is Antonella.
+### I'm a Jr. Developer
 
-<!--
-**Anto8819/Anto8819** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![I'm a Jr. Developer](https://cdnb.artstation.com/p/assets/images/images/028/991/999/original/anna-havrylyukh-.gif?1596125112)
 
-Here are some ideas to get you started:
+🔙After 10 years in the *financial industry*, I saw Tech becoming a core  business driver sectorwide, and I decided to take an active rol in this amazing digital transformation. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👩‍💻I'm finishing a +700 hs **Full Stack Developer Bootcamp at [SoyHenry](https://www.soyhenry.com/)**, and I can tell programming is one of my passions.
+
+Skills: REACT.JS / REACT NATIVE/ REDUX / JS / HTML / CSS / NODE.JS / EXPRESS / POSTGRESQL / SEQUELIZE / FIREBASE / MYSQL / SQL / SAS
+
+-🔭 I’m currently working on a team *mobile project* of a dating app in *React Native*, as part of #SoyHenry bootcamp
+
+-🌱 In the next months I plan to learn *TypeScript* and *Phyton*
+
+-🤩 I'm interested in *blockchain* and *machine learning*
+
+-⚡️ I'm *fluent in english* and a native spanish speaker, living in Bs As, Argentina.
+
+Feel free to reach me out by [📩](mrap1988.com.ar) or [Linkedin](https://www.linkedin.com/in/antonella-rapuano)
+
