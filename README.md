@@ -5,7 +5,7 @@
 
 🔙After 10 years in the *financial industry*, I saw Tech becoming a core  business driver sectorwide, and I decided to take an active rol in this amazing digital transformation. 
 
-👩‍💻I'm finishing a +700 hs **Full Stack Developer Bootcamp at [SoyHenry](https://www.soyhenry.com/)**, and I can tell programming is one of my passions.
+👩‍💻I recently finished a +700 hs **Full Stack Developer Bootcamp at [SoyHenry](https://www.soyhenry.com/)**, and I can tell programming is one of my passions.
 
 Skills: REACT.JS / REACT NATIVE/ REDUX / JS / HTML / CSS / NODE.JS / EXPRESS / POSTGRESQL / SEQUELIZE / FIREBASE / MYSQL / SQL / SAS
 
